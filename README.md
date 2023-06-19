@@ -40,8 +40,6 @@ The Internal Campus MBKM Information System is open-source software licensed und
 <h1>Support</h1>
 aska.limbong@gmail.com
 
-Note: Replace support@mbkminfosystem.com with your actual support email address.
-
 <h1>Acknowledgements</h1>
 We would like to express our gratitude to the Laravel community for their excellent framework, which has been instrumental in the development of this system. We also thank our team members and contributors for their hard work and dedication.
 
