@@ -1,4 +1,6 @@
-Project Name: MBKM Information System (for Internal Campus)
+<div align="center">
+   <h1>Project Name: MBKM Information System (for Internal Campus)</h1>
+</div>
 
 <h1>Description</h1>
 The Internal Campus MBKM Information System is a comprehensive software solution developed using the Laravel framework. It is designed to facilitate the implementation and management of the Merdeka Belajar-Kampus Merdeka (MBKM) program within university campuses. This system provides a user-friendly platform for staff and administrators to coordinate, administer, and monitor the MBKM program.
