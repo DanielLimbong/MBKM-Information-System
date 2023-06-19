@@ -38,7 +38,7 @@ License
 The Internal Campus MBKM Information System is open-source software licensed under the MIT License. Feel free to modify and distribute it as per the license terms.
 
 <h1>Support</h1>
-For any inquiries or issues, please contact our support team at support@mbkminfosystem.com.
+aska.limbong@gmail.com
 
 Note: Replace support@mbkminfosystem.com with your actual support email address.
 
