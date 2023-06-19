@@ -1,9 +1,9 @@
-Project Name: Internal Campus MBKM Information System
+Project Name: MBKM Information System (for Internal Campus)
 
-Description
+<h1>Description</h1>
 The Internal Campus MBKM Information System is a comprehensive software solution developed using the Laravel framework. It is designed to facilitate the implementation and management of the Merdeka Belajar-Kampus Merdeka (MBKM) program within university campuses. This system provides a user-friendly platform for staff and administrators to coordinate, administer, and monitor the MBKM program.
 
-Key Features
+<h1>Key Features</h1>
 User registration and enrollment module for students to sign up and select MBKM activities.
 Dynamic course management module for administrators to input and update course information.
 Tracking and monitoring module to oversee student participation, attendance, and completion of activities.
@@ -27,7 +27,7 @@ Configure system settings and permissions according to your institution's requir
 Contribution
 Contributions to the Internal Campus MBKM Information System are welcome. To contribute, follow these steps:
 
-Fork the repository.
+<h1>Fork the repository.</h1>
 Create a new branch for your feature or bug fix.
 Make the necessary changes and commit them.
 Push your changes to your forked repository.
@@ -35,14 +35,14 @@ Submit a pull request to the main repository.
 License
 The Internal Campus MBKM Information System is open-source software licensed under the MIT License. Feel free to modify and distribute it as per the license terms.
 
-Support
+<h1>Support</h1>
 For any inquiries or issues, please contact our support team at support@mbkminfosystem.com.
 
 Note: Replace support@mbkminfosystem.com with your actual support email address.
 
-Acknowledgements
+<h1>Acknowledgements</h1>
 We would like to express our gratitude to the Laravel community for their excellent framework, which has been instrumental in the development of this system. We also thank our team members and contributors for their hard work and dedication.
 
-Author: Your Name
+Author: Daniel Limbong
 Version: 1.0
-Last Updated: Date
+Last Updated: June 19, 2023
